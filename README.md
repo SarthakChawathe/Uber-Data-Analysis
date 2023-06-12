@@ -21,6 +21,6 @@ This project focuses on analyzing Uber data utilizing various tools on the Googl
 8) Customize the reports and visualizations as per your project requirements.
 
 
-# Link to Final Dashboard : https://lookerstudio.google.com/s/sQyFkRE_B0o
+# Link to Final Dashboard 
 
 Link : https://lookerstudio.google.com/s/sQyFkRE_B0o
